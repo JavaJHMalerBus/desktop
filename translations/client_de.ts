@@ -2940,7 +2940,7 @@ Es ist nicht ratsam, sie zu benutzen.</translation>
     <message>
         <location filename="../src/gui/socketapi.cpp" line="672"/>
         <source>Copy internal link</source>
-        <translation>Kopiere internen Link</translation>
+        <translation>Internen Link kopieren</translation>
     </message>
     <message>
         <location filename="../src/gui/socketapi.cpp" line="722"/>
